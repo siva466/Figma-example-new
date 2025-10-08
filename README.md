@@ -1,4 +1,4 @@
-# Marketing Agency one page template - ARCHIVED
+# Marketing Agency one page template - SUB
 
 Flat and responsive website template, designed and coded by [Maxim Orlov](https://github.com/orlovmax).
 
